@@ -13,7 +13,7 @@
 
 <!-- 💻 GIF Tech Stack Header -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJsdW42Nzd5bDR6YmszNnM2MXpidWhtcW40aG96YWYxdGJoMTA1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZsZwsU65E0qcok8/giphy.gif" width="180px" alt="Tech Stack GIF"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzN5YXptaXp0d3BzNjQ3enhyMXl2bnFycDI0NGt0Y2E5ZDQ4Z2xodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/maeiz9N6fKKnS/giphy.gif" width="180px" alt="Tech Stack Sticker"/>
 </p>
 
 # 💻 Tech Stack:
