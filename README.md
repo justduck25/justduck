@@ -1,12 +1,20 @@
-<!-- 👋 Animated Sticker -->
+<!-- 👋 Introduction -->
+<h1 align="center">Hi there, I'm Đức 👋</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="90px" alt="Waving hand gif"/>
+  I'm a passionate developer who loves cats xaxaxaxa.
 </p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/trongducdoan25) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_justduck) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:trongducdoan25@gmail.com) 
+
+---
+
+<!-- 💻 GIF Tech Stack Header -->
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJsdW42Nzd5bDR6YmszNnM2MXpidWhtcW40aG96YWYxdGJoMTA1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZsZwsU65E0qcok8/giphy.gif" width="180px" alt="Tech Stack GIF"/>
+</p>
 
 # 💻 Tech Stack:
 
